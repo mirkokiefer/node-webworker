@@ -69,6 +69,6 @@ dealt with manually if installing using another procedure.
 
 ### Credits
 
-This package contains a static snapshot of Micheil Smith's excellent
+This package depends on Micheil Smith's excellent
 [node-websocket-server](http://github.com/miksago/node-websocket-server) with
 some fixes applied to handle UNIX sockets.
